@@ -46,4 +46,6 @@ big o gösterimi : O(logn) ,  aradığımız sayı ortada olduğundan Avarege Ca
 
 ![](foto.png)
 
+[Link Eklemeyi Unutmayayım :)](www.patika.dev)
+
 end;
